@@ -117,7 +117,7 @@ Pygments==2.0.1
 # sha256: NXVxrXXdwnAY1YbSIDac8rM5mQSROg6uRjGwgtLTO7I
 # sha256: NX5AMqsb5MBQRzwIrY7iTADxRORvITyaaDpIw458VAk
 # sha256: zETFS0MrJ8WePQvASKWnWBsTlEwUxWyUY0z-jV6rreU
-Pillow==3.2.0
+Pillow==7.1.0
 
 # sha256: blfJW_PUsrmPUwcHVnT5OXuWYAbYzaP39KOv_-y5n7o
 # sha256: zhJNc4i0KX-HX-BPO-rcV4MkZxj18PtKwjVZpvw11lM
