@@ -21,7 +21,7 @@ MarkupSafe==0.23
 
 # sha256: gnFVEftiRvrUumbYEuuTQWroNxtGT6iL84Z8nBd9qhQ
 # sha256: _7QRdX3jdNBcdZySmQjSOXxm47z2813uQabvnrhRSXs
-gunicorn==19.1.1
+gunicorn==19.5.0
 
 # sha256: 2slBnbPs4nu1PHQzJD_CLtQs9o3p1sQSk5Dh2a7-YxA
 # sha256: Pk2AGZlglZuCiVGqJMv6o2zr7RSdzXKMEehVeYsV-HA
