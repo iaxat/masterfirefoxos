@@ -208,7 +208,7 @@ pyflakes==0.8.1
 
 # sha256: _bmvYNR8pXqA3wohMzYBmjT_YZLY__Nhw0nyyDmP5GA
 # sha256: HNvtHw4jbzXvVOkZmCx6M45P6jeGMQkz06eIegS3TXU
-requests==2.6.0
+requests==2.20.0
 
 # sha256: lRcUyqCugCN_T_wfCEUOni5fj5Ar6vGtKUAgh11vjCw
 execnet==1.2.0
