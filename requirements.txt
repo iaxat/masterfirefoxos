@@ -117,7 +117,7 @@ Pygments==2.0.1
 # sha256: NXVxrXXdwnAY1YbSIDac8rM5mQSROg6uRjGwgtLTO7I
 # sha256: NX5AMqsb5MBQRzwIrY7iTADxRORvITyaaDpIw458VAk
 # sha256: zETFS0MrJ8WePQvASKWnWBsTlEwUxWyUY0z-jV6rreU
-Pillow==3.2.0
+Pillow==7.1.0
 
 # sha256: blfJW_PUsrmPUwcHVnT5OXuWYAbYzaP39KOv_-y5n7o
 # sha256: zhJNc4i0KX-HX-BPO-rcV4MkZxj18PtKwjVZpvw11lM
@@ -143,7 +143,7 @@ pytest==2.6.4
 
 # sha256: zDqVGHeIYn39yUtB3pCKrfxCQfq7POrvGfS9O4nA_fc
 # sha256: IkqvF6KGCXB9lC3q_m0KWzgrryKm8z5OYcVsYvCQgd0
-Django==1.8.16
+Django==1.11.29
 
 # sha256: MeUZjAbykOHoE9MN3QY6BAHZ46aYEpykQmd4FnOnEoU
 pytest-cov==1.8.1
