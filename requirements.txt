@@ -14,7 +14,7 @@ psycopg2==2.5.4
 python-decouple==2.3
 
 # sha256: LiSsXQBNtXFJdqBKwOgMbfbkfpjDVMssDYL4h51Pj9s
-Jinja2==2.7.3
+Jinja2==2.10.1
 
 # sha256: pOwa_1m5WhS0XrLiN2GgF56YMZ2lp-t2tW6ozce4ccM
 MarkupSafe==0.23
